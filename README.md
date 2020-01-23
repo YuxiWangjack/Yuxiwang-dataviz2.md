@@ -1,8 +1,8 @@
 # Yuxiwang-dataviz2.md
 link to the live page https://yuxiwangjack.github.io/Yuxiwang-dataviz2.md/
-<iframe src="https://data.oecd.org/chart/5OMU" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5OMU" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 ### Original Data
+<iframe src="https://data.oecd.org/chart/5OMU" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5OMU" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 <svg width="900" height="1500" xmlns="http://www.w3.org/2000/svg" version="1.1"><g id="swarm-AUS" transform="translate(25,0)"><text x="-25" y="23" style="font-size: 10px; font-family: Arial, Helvetica;">AUS</text><g id="circles" class="bees"><circle id="circle" r="5.498843785419133" cx="1.9999999999999976" cy="6.140
   
 ### Beeswarm Plot
