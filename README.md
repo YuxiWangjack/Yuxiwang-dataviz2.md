@@ -24,6 +24,6 @@ For my graph, I used the stramgaph,which is better to see the tendency and chang
 ### Comparison 
 For the beeswarm graph, although it shows each country clearly with the time, the audience cannot see the debt value change easily though the size of point. All the points are basically same size with same color that make the comparison hard. Thus,for the third graph, I choose streamgraph as the data vitualization, which is a graph change size alone the stripe with time, that can show the change much better than the original beeswarm graph. 
 
-Besides, with color, the third graph allows the audience see the main point I want to research, that is the American countries' debt change. I emphasized them with different color and let other countries be grey, so that the audience can see them clearly, and can compare each countries in the streamgraph. 
+Besides, with color, the third graph allows the audience see the main point I want to research, that is the American countries' debt change. I emphasized them with different color and let other countries be grey, so that the audience can see them clearly, and can compare all the countries in the streamgraph. 
 
 
